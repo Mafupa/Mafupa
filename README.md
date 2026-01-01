@@ -8,7 +8,7 @@ I'm passionate about building web applications and exploring various technologie
 ## 💻 Featured Projects
 
 ### 🎮 Web Applications & Games
-- **[Nerdicard](https://github.com/Mafupa/nerdicard)** - Real-time multiplayer card game built with Node.js and WebSockets. Features 1v1 strategic battles with custom rooms and turn-based gameplay. [Play it live!](http://nerdicard.onrender.com)
+- **[Nerdicard](https://github.com/Mafupa/nerdicard)** - Real-time multiplayer card game built with Node.js and WebSockets. Features 1v1 strategic battles with custom rooms and turn-based gameplay. [Play it live!](https://nerdicard.onrender.com)
 - **[TodoList](https://github.com/Mafupa/TodoList)** - Task management application built with JavaScript
 - **[React Calculator](https://github.com/Mafupa/react-calculator)** - Modern calculator built with React
 
@@ -40,9 +40,9 @@ I'm passionate about building web applications and exploring various technologie
 - **[TG-GitExercises](https://github.com/Mafupa/TG-GitExercises)** - Git fundamentals and exercises
 
 ### 📚 Getting Started Projects
-- **[ALX Pre-Course](https://github.com/Mafupa/alx-pre_course)** - Introduction to software engineering
-- **[ALX Zero Day](https://github.com/Mafupa/alx-zero_day)** - First repository as a full-stack engineer
-- **[Zero Day](https://github.com/Mafupa/zero_day)** - First repository as a full-stack engineer (1 fork)
+- **[ALX Pre-Course](https://github.com/Mafupa/alx-pre_course)** - Introduction to software engineering with ALX program
+- **[ALX Zero Day](https://github.com/Mafupa/alx-zero_day)** - Initial ALX program repository showcasing Git and development environment setup
+- **[Zero Day](https://github.com/Mafupa/zero_day)** - First full-stack engineering repository with foundational concepts (1 fork)
 
 ## 🛠️ Tech Stack
 
